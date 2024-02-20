@@ -2,11 +2,12 @@
         background-color: rgb(36, 37, 42);
         padding-top: 3%;
         padding-bottom: 3%;
+        bottom:0;
        /* box-shadow: 0px -5px 25px rgb(255, 252, 168); */
     }
     
     .user_link{
-        height: 10rem;
+        height: 15rem;
         position: relative;
         display: flex;
         justify-content: center;
@@ -19,7 +20,9 @@
     .user_box_1 {
         float: left;
         width: 100%;
+        /*
         position: absolute;
+        */
         box-sizing: content-box;
         left: 0%;
         text-align: center;
