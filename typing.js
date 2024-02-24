@@ -1,4 +1,4 @@
-const content = "Hello, I'm JeongHyeon \n a front-end developer.";
+const content = "Hello, I'm JeongHyeon \n A front-end developer.";
 const text = document.querySelector(".text");
 let i = 0;
 
@@ -10,4 +10,5 @@ function typing(){
         i = 0;
     }
 }
-setInterval(typing, 120)
+setInterval(typing, 150)
+

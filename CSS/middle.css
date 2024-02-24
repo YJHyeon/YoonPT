@@ -1,0 +1,16 @@
+ .menu_list {
+    overflow: hidden;
+    background: #333;
+    list-style: none;
+    position: sticky;
+    top: 0px;
+    margin: 0;
+    padding: 0;
+  }
+  .menu_list_class {
+    color: #fff;
+    padding: 10px;
+    border-right: 1px solid #fff;
+    float: left;
+    text-align: center;
+  }
