@@ -6,11 +6,31 @@
     top: 0px;
     margin: 0;
     padding: 0;
+    width:100%;
+    text-align: center;
   }
   .menu_list_class {
     color: #fff;
-    padding: 10px;
-    border-right: 1px solid #fff;
     float: left;
+    display:flex;
+    flex-direction: row-reverse;
     text-align: center;
+    align-items: center;
+    width:20%;
+    height:60px;
+    margin-right: 1%;
   }
+  .menu_list_class_1 {
+    color: #fff;
+    float: left;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    width:10%;
+    height:60px;
+    margin-left: 3%;
+  }
+.menu_list_button{
+    color:white;
+    text-decoration-line: none;
+}
