@@ -53,11 +53,11 @@
     height:8vw;
     font-size: 6vw;
 }
-.fa-solid{
+.fa-arrow-right{
     font-size: 6vw;
     transition: all 0.5s;
 }
-.fa-solid:hover{
+.fa-arrow-right:hover{
     font-size: 6vw;
     transform:rotate(90deg);
 }
